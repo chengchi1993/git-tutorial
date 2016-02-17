@@ -1,7 +1,7 @@
 #course git
 
 
--feature-A
+-feature-A V1.0
 
 
 
